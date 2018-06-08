@@ -9,7 +9,7 @@ import java.util.ArrayList;
  */
 public class Derslik {
     
-    private final String derslikKodu;
+    String derslikKodu;
     int derslikKapasitesi;
     String []pzt = {null, null, null, null, null, null, null,null};
     String []sali = {null, null, null, null, null, null, null,null};
